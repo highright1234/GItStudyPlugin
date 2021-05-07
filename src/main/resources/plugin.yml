@@ -1,0 +1,4 @@
+name: GitStudyPlugin
+version: @version@
+main: com.github.highright1234.gitstudyplugin.GitStudyPlugin
+api-version: 1.16
