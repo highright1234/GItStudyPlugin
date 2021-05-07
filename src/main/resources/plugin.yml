@@ -2,3 +2,11 @@ name: GitStudyPlugin
 version: @version@
 main: com.github.highright1234.gitstudyplugin.GitStudyPlugin
 api-version: 1.16
+commands:
+  gitstudyplugin:
+    usage: /gitstudyplugin help
+    description: 깃 배우는데 쓰는거임;;
+    permission: gitstudyplugin.command
+permissions:
+  gitstudyplugin:
+    default: op
